@@ -26,6 +26,7 @@
 <img src= "https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" height="30" alt="Intellij IDEA logo"/>
 <img width="12"/>
 <img src= "https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" height="30" alt="Linux logo"/>
+<img width="12"/>
 </div>
   
 ### Studying in this moment:
@@ -34,6 +35,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"/>
 <img width="12"/>
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="30" alt="react.js logo"/>
+<img width="12"/>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ee82ee&height=120&section=footer"/>****
