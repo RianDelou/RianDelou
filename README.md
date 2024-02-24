@@ -39,5 +39,3 @@
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ee82ee&height=120&section=footer"/>
-
-[![](https://visitcount.itsvg.in/api?id=delou&label=Profile%20Views&color=11&pretty=false)](https://visitcount.itsvg.in)
