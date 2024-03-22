@@ -9,6 +9,9 @@
 
 <div align="center">
 <h2>Main skills</h2>
+</div>
+
+<div align="center">
 <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"/>
 <img width="12"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"/>
@@ -17,10 +20,13 @@
 <img width="12"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 <img width="12"/>
-</div>
+</div
 
 <div align="center">
 <h2>Tools</h2>
+</div>
+
+<div align="center">
 <img src= "https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="30" alt="vscode logo"/>
 <img width="12"/>
 <img src= "https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" height="30" alt="Intellij IDEA logo"/>
@@ -31,6 +37,9 @@
 
 <div align="center">
 <h2>Studying in this moment</h2>
+</div>
+
+<div align="center">
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="30" alt="react.js logo"/>
 <img width="12"/>
 </div>
