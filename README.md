@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-<p>Main skills</p>
+<p style="font-size: 24px; font-weight: bold;">Main skills</p>
 <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"/>
 <img width="12"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"/>
@@ -21,7 +21,7 @@
 
 
 <div align="center">
-<p>Tools</p>
+<p style="font-size: 24px; font-weight: bold;">Tools</p>
 <img src= "https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="30" alt="vscode logo"/>
 <img width="12"/>
 <img src= "https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" height="30" alt="Intellij IDEA logo"/>
@@ -31,7 +31,7 @@
 </div>
 
 <div align="center">
-<p>Studying in this moment</p>
+<p style="font-size: 24px; font-weight: bold;">Studying in this moment</p>
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="30" alt="react.js logo"/>
 <img width="12"/>
 </div>
