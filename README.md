@@ -13,13 +13,13 @@
 
 <div align="center">
 <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"/>
-<img width="12"/>
+<img/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"/>
-<img width="12"/>
+<img/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-<img width="12"/>  
+<img/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-<img width="12"/>
+<img/>
 </div>
 
 <div align="center">
@@ -28,11 +28,11 @@
 
 <div align="center">
 <img src= "https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="30" alt="vscode logo"/>
-<img width="12"/>
+<img/>
 <img src= "https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" height="30" alt="Intellij IDEA logo"/>
-<img width="12"/>
+<img/>
 <img src= "https://brandslogos.com/wp-content/uploads/images/large/ubuntu-logo.png" height="30" alt="Linux logo"/>
-<img width="12"/>
+<img/>
 </div>
 
 <div align="center">
@@ -41,7 +41,7 @@
 
 <div align="center">
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="30" alt="react.js logo"/>
-<img width="12"/>
+<img/>
 </div>
 
 <hr>
