@@ -1,6 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ee82ee&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=56008c&size=35&center=true&vCenter=true&width=1000&lines=Hi!+my+name+is+Rian+Delou;I'm+20+years+old;Currently+studying+computer+science+at+UNICAP;Be+Welcome!+:D)](https://git.io/typing-svg)
+### *Hi! my name is Rian Delou and am a Computer Science student* <br>
+
+<p>I am currently in the 6th period. I love learning new technologies and developing projects using them, the feeling of learning something new and creating with this technology is unique. You are welcome to see the projects that I have made on my GitHub ^^</p>
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RianDelou&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Rian Delou github stats" /> 
