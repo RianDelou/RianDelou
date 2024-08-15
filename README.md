@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ee82ee&height=120&section=header"/>
 
-### *Hi! my name is Rian Delou and am a Computer Science student* <br>
+### *Hi! my name is Rian Delou and am a Computer Science student (6th period in college)* <br>
 
-<p>I am currently in the 6th period. I love learning new technologies and developing projects using them, the feeling of learning something new and creating with this technology is unique. You are welcome to see the projects that I have made on my GitHub ^^</p>
+<p>I love learning new technologies and developing projects using them, the feeling of learning something new and creating with this technology is unique. You are welcome to see the projects that i have made here, hope u enjoy ^^</p>
 
 
 <div align="center">  
